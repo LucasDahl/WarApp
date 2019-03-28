@@ -59,7 +59,7 @@ class ViewController: UIViewController {
             
         } else if leftRandomNumber == rightRandomNumber {
             
-           // Maybe add an alert?...
+            // TODO: Maybe add an alert?...
             
         } else {
             

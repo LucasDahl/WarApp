@@ -64,6 +64,7 @@ class ViewController: UIViewController {
         } else {
             
             // Incase something else unexpected happened...
+            return
             
         } // End if
         

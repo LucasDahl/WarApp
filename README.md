@@ -1,2 +1,2 @@
 # WarApp
-A simple war card game for IOS devices.
+A very simple war card game for IOS devices.
